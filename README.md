@@ -1,6 +1,6 @@
-### Hello there!
+## Hello there! I'm Sebastian
 
-My name is Sebastian Gonzales and I am a Full Stack Developer. I'm able to do scalable web projects using modern technologies like React, Redux, NodeJS, Express, Sequelize. I studied at SoyHenry's bootcamp where I learned new skills and improve my other skills.
+I am a Full Stack Developer. I'm able to do scalable web projects using modern technologies like React, Redux, NodeJS, Express, Sequelize. I studied at SoyHenry's bootcamp where I learned new skills and improve my other skills. I also program in C# to desktop softwares development and for the game development industry, with Unity.
 <!--
 **asgonzales/asgonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
